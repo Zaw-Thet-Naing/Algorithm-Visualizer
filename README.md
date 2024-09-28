@@ -8,7 +8,7 @@
 
 #### Description:
 
-This [React](https://react.dev/) single-page application visualizes some of the popular sorting algorithms by showing the sorting processes with animations. Therefore, it lets the users grasp the time complexity of different sorting algorithms. Currently, the application contains three sorting algorithms which are bubble sort, heap sort, merge sort, and quick sort.
+This [React](https://react.dev/) single-page application visualizes some of the popular sorting algorithms by showing the sorting processes with animations. Therefore, it lets the users grasp the time complexity of different sorting algorithms. Currently, the application contains four sorting algorithms which are bubble sort, heap sort, merge sort, and quick sort.
 
 #### How to install and run
 
