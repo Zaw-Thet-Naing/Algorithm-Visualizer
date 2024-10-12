@@ -12,13 +12,13 @@ This [React](https://react.dev/) single-page application visualizes some of the 
 
 #### How to install and run
 
-### - Install `npm` (Node Package Manager)
+##### - Install `npm` (Node Package Manager)
 To get npm, you need to install [Node.js](https://nodejs.org/en/download) with which npm is bundled. Therefore, by installing Node.js, npm will be also installed on the system.
 
-### - If Node.js is already on the machine
+##### - If Node.js is already on the machine
 If your machine has Node.js of version 14 or higher, you will need to run `npm install` in the terminal after cloning this project.
 
-### - Run the project
+##### - Run the project
 Initiate this program by running `npm start`. **In the background, you need to keep opening the terminal in which `npm start` was run**
 
 #### How to interact with the program
