@@ -8,7 +8,8 @@
 
 #### Description:
 
-This [React](https://react.dev/) single-page application visualizes some of the popular sorting algorithms by showing the sorting processes with animations. Currently, the application contains four sorting algorithms which are bubble sort, heap sort, merge sort, and quick sort.
+  This [React](https://react.dev/) single-page application visualizes some of the popular sorting algorithms by showing the sorting processes with animations. Currently, the application contains four sorting algorithms which are bubble sort, heap sort, merge sort, and quick sort.
+  I built this program because I've never coded any sorting algorithm, and I thought that in this way, I can improve my problem solving and debugging skills.
 
 #### How to install and run
 
@@ -30,10 +31,6 @@ After starting the project, users can select the sorting methods, change the spe
 - You can start sorting by clicking on the `Start Sorting` button.
 - By clicking the `Refresh Array` button, you can reset the array into a new array. It can also be used to stop the sorting process.
 - Users can compare the time complexity of each algorithm by looking up the timer which is one of the features in this project.
-
-#### How to wander around the directory
-
-Every implementation of each algorithm can be found in the `algorithms` folder under `src`. Under `src`, `App.js` is the main component of my program's logic and then, it is exported to `index.js` which is the React main component, responsible for rendering. In `App.css`, the main style component of the app, styles specific to `App.js` are implemented.
 
 #### Certain code design choice
 
